@@ -1,0 +1,27 @@
+[
+  {
+    "description": "A customer is unsatisfied and demands a refund",
+    "coins": -10,
+    "pizzas": 0
+  },
+  {
+    "description": "You receive a large tip from a very satisifed customer!",
+    "coins": 100,
+    "pizzas": 0
+  },
+  {
+    "description": "You find a $50 note outside the shop!",
+    "coins": 50,
+    "pizzas": 0
+  },
+  {
+    "description": "A sneaky employer stole some money from the till",
+    "coins": -20,
+    "pizzas": 0
+  },
+  {
+    "description": "Management is looking to increase supply and gifts you some extra money! Consider hiring some more staff",
+    "coins": 200,
+    "pizzas": 0
+  }
+]

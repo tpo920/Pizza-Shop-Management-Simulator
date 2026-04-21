@@ -1,0 +1,110 @@
+[
+  {
+    "question": "Welcome to your first week! What is the primary purpose of a business?",
+    "answers": [
+      {
+        "text": "To provide goods and services",
+        "correct": true,
+        "description": "The primary purpose of a business is to provide goods and services to customers."
+      },
+      {
+        "text": "To create job opportunities",
+        "correct": false,
+        "description": "While creating job opportunities is important, it is not the primary purpose of a business."
+      },
+      {
+        "text": "To reduce environmental impact",
+        "correct": false,
+        "description": "Reducing environmental impact is a goal for many businesses, but not the primary purpose."
+      },
+      {
+        "text": "To engage in charity work",
+        "correct": false,
+        "description": "Engaging in charity work is commendable, but it is not the primary purpose of a business."
+      }
+    ],
+    "weekRange": [1],
+    "outcome": "understanding of external factors influencing a small business"
+  },
+  {
+    "question": "What is the term for the amount by which revenue exceeds costs?",
+    "answers": [
+      {
+        "text": "Profit",
+        "correct": true,
+        "description": "Profit is the amount by which revenue exceeds costs."
+      },
+      {
+        "text": "Loss",
+        "correct": false,
+        "description": "Loss occurs when costs exceed revenue."
+      },
+      {
+        "text": "Revenue",
+        "correct": false,
+        "description": "Revenue is the total income from sales."
+      },
+      {
+        "text": "Expense",
+        "correct": false,
+        "description": "Expense refers to the costs incurred by a business."
+      }
+    ],
+    "weekRange": [2],
+    "outcome": "understanding of price determination for an organisation"
+  },
+  {
+    "question": "With your experience setting prices, what impact does the price have on the demand?",
+    "answers": [
+      {
+        "text": "Increasing price increases demand",
+        "correct": false,
+        "description": "Increasing price decreases demand as products are deemed not worth it."
+      },
+      {
+        "text": "Decreasing price decreases demand",
+        "correct": false,
+        "description": "Decreasing price typically increases demand as products are deemed a good deal."
+      },
+      {
+        "text": "Decreasing price increases demand",
+        "correct": true,
+        "description": "As price decreases, demand will increase as customers view this as a good deal."
+      },
+      {
+        "text": "The price is not relevant to the demand",
+        "correct": false,
+        "description": "Price is always related to demand."
+      }
+    ],
+    "weekRange": [3],
+    "outcome": "understanding of how interdependent financial relations are affected by an event"
+  },
+  {
+    "question": "With your experience setting staff numbers, which of these is not a true statement regarding workers?",
+    "answers": [
+      {
+        "text": "More workers results in increased profit",
+        "correct": false,
+        "description": "Without sufficient demand, more workers can result in lost profit."
+      },
+      {
+        "text": "Less workers results in increased profit",
+        "correct": false,
+        "description": "While money upfront can be saved, supply can struggle without sufficient staff."
+      },
+      {
+        "text": "More workers results in increased supply and demand",
+        "correct": false,
+        "description": "Supply is increased, but demand is an external factor."
+      },
+      {
+        "text": "More workers results in increased supply",
+        "correct": true,
+        "description": "Workers directly correspond to the supply of a businesss."
+      }
+    ],
+    "weekRange": [5],
+    "outcome": "understanding of the financial viability of an organization"
+  }
+]
